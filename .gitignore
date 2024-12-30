@@ -1,0 +1,13 @@
+*.csv
+*.mp3
+*.mp4
+Data/
+EDA/
+node_modules/
+backend/backend/config/env.json
+*.pptx
+*.ipynb
+models/embeddings/embedding_model
+frontend/src/assets/thumbnails/lectures
+*.pyc
+/Demo_picts
